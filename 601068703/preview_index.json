@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "601068703",
-  "updated_at": "2026-04-23T15:52:38.231747",
+  "updated_at": "2026-05-31T10:31:22+00:00",
   "skins": [
     {
       "name": "杳杳☆doll｜彩底｜音效②",
@@ -578,6 +578,12 @@
       "file": "简约泡泡融底.bds",
       "thumb": "简约泡泡融底.bds_py_26_light_thumb.png",
       "full": "简约泡泡融底.bds_py_26_light.png"
+    },
+    {
+      "name": "小樱酱融底",
+      "file": "小樱酱融底.bdi",
+      "thumb": "小樱酱融底.bdi_py_26_light_thumb.png",
+      "full": "小樱酱融底.bdi_py_26_light_thumb.png"
     }
   ]
 }
