@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "601068703",
-  "updated_at": "2026-06-25T15:17:08+00:00",
+  "updated_at": "2026-06-27T08:55:54+00:00",
   "skins": [
     {
       "name": "杳杳☆doll｜彩底｜音效②",
@@ -602,6 +602,12 @@
       "file": "Echo回声融底脆音.bdi",
       "thumb": "Echo回声融底脆音.bdi_py_26_light_thumb.png",
       "full": "Echo回声融底脆音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "下雨天彩底",
+      "file": "下雨天彩底.bdi",
+      "thumb": "下雨天彩底.bdi_py_26_light_thumb.png",
+      "full": "下雨天彩底.bdi_py_26_light_thumb.png"
     }
   ]
 }
