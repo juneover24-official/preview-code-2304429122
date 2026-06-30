@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "807118078",
-  "updated_at": "2026-06-26T08:46:25+00:00",
+  "updated_at": "2026-06-30T10:28:28+00:00",
   "skins": [
     {
       "name": "Sakura 融底",
@@ -20,6 +20,12 @@
       "file": "赴山野融底.bdi",
       "thumb": "赴山野融底.bdi_py_26_light_thumb.png",
       "full": "赴山野融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "Eternity 融底",
+      "file": "Eternity融底.bds",
+      "thumb": "Eternity融底.bds_py_26_light_thumb.png",
+      "full": "Eternity融底.bds_py_26_light_thumb.png"
     }
   ]
 }
