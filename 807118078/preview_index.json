@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "807118078",
-  "updated_at": "2026-07-01T14:14:47+00:00",
+  "updated_at": "2026-07-01T14:17:22+00:00",
   "skins": [
     {
       "name": "Sakura 融底",
@@ -50,6 +50,12 @@
       "file": "人熊很爱你彩底①.bds",
       "thumb": "人熊很爱你彩底①.bds_py_26_light_thumb.png",
       "full": "人熊很爱你彩底①.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "人熊很爱你彩底①",
+      "file": "人熊很爱你彩底①.bdi",
+      "thumb": "人熊很爱你彩底①.bdi_py_26_light_thumb.png",
+      "full": "人熊很爱你彩底①.bdi_py_26_light_thumb.png"
     }
   ]
 }
