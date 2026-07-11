@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "807118078",
-  "updated_at": "2026-07-11T08:50:41+00:00",
+  "updated_at": "2026-07-11T08:50:50+00:00",
   "skins": [
     {
       "name": "Sakura 融底",
@@ -122,6 +122,12 @@
       "file": "雪落季融③音.bdi",
       "thumb": "雪落季融③音.bdi_py_26_light_thumb.png",
       "full": "雪落季融③音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "雪落季 融①音",
+      "file": "雪落季融①音.bdi",
+      "thumb": "雪落季融①音.bdi_py_26_light_thumb.png",
+      "full": "雪落季融①音.bdi_py_26_light_thumb.png"
     }
   ]
 }
