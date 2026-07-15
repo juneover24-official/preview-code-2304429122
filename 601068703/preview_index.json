@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "601068703",
-  "updated_at": "2026-07-15T17:32:14+00:00",
+  "updated_at": "2026-07-15T20:22:09+00:00",
   "skins": [
     {
       "name": "杳杳☆doll｜彩底｜音效②",
@@ -626,6 +626,12 @@
       "file": "旧页情书无背景.bdi",
       "thumb": "旧页情书无背景.bdi_py_26_light_thumb.png",
       "full": "旧页情书无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳のEcho｜回声 彩脆",
+      "file": "Echo回声彩底脆音.bdi",
+      "thumb": "Echo回声彩底脆音.bdi_py_26_light_thumb.png",
+      "full": "Echo回声彩底脆音.bdi_py_26_light_thumb.png"
     }
   ]
 }
