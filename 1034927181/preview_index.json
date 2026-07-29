@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "1034927181",
-  "updated_at": "2026-07-29T16:47:37+00:00",
+  "updated_at": "2026-07-29T16:53:19+00:00",
   "skins": [
     {
       "name": "不良天使… 融底",
@@ -14,6 +14,12 @@
       "file": "小埋彩底.bds",
       "thumb": "小埋彩底.bds_py_26_light_thumb.png",
       "full": "小埋彩底.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "沙耶子 融底",
+      "file": "沙耶子融底.bds",
+      "thumb": "沙耶子融底.bds_py_26_light_thumb.png",
+      "full": "沙耶子融底.bds_py_26_light_thumb.png"
     }
   ]
 }
