@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "601068703",
-  "updated_at": "2026-08-02T06:39:58+00:00",
+  "updated_at": "2026-08-02T06:40:19+00:00",
   "skins": [
     {
       "name": "杳杳☆doll｜彩底｜音效②",
@@ -662,6 +662,12 @@
       "file": "熊熊头融底.bdi",
       "thumb": "熊熊头融底.bdi_py_26_light_thumb.png",
       "full": "熊熊头融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "熊熊头 融底",
+      "file": "熊熊头融底.bds",
+      "thumb": "熊熊头融底.bds_py_26_light_thumb.png",
+      "full": "熊熊头融底.bds_py_26_light_thumb.png"
     }
   ]
 }
