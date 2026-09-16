@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "601068703",
-  "updated_at": "2026-09-16T04:39:09+00:00",
+  "updated_at": "2026-09-16T04:51:32+00:00",
   "skins": [
     {
       "name": "杳杳☆doll｜彩底｜音效②",
@@ -686,6 +686,13 @@
       "file": "027灰月.bdi",
       "thumb": "027灰月.bdi_py_26_light_thumb.png",
       "full": "027灰月.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の027 灰月",
+      "file": "027灰月_融合.bds",
+      "thumb": "027灰月_融合.bds_py_26_light_thumb.png",
+      "full": "027灰月_融合.bds_py_26_light_thumb.png",
+      "file_id": "b06de65158ffd78b34303928f0b1590a"
     }
   ]
 }
