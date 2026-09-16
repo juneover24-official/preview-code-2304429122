@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "601068703",
-  "updated_at": "2026-09-16T05:44:40+00:00",
+  "updated_at": "2026-09-16T05:44:48+00:00",
   "skins": [
     {
       "name": "杳杳☆doll｜彩底｜音效②",
@@ -702,12 +702,6 @@
     },
     {
       "name": "杳の027 粉月",
-      "file": "027粉月_融合.bds",
-      "thumb": "027粉月_融合.bds_py_26_light_thumb.png",
-      "full": "027粉月_融合.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "杳の027 粉月",
       "file": "027粉月.bdi",
       "thumb": "027粉月.bdi_py_26_light_thumb.png",
       "full": "027粉月.bdi_py_26_light_thumb.png"
@@ -718,6 +712,13 @@
       "thumb": "027粉月.bds_py_26_light_thumb.png",
       "full": "027粉月.bds_py_26_light_thumb.png",
       "file_id": "d7c77c398d42bd18150a5aa229b8c73a"
+    },
+    {
+      "name": "杳の027 粉月",
+      "file": "027粉月_融合.bds",
+      "thumb": "027粉月_融合.bds_py_26_light_thumb.png",
+      "full": "027粉月_融合.bds_py_26_light_thumb.png",
+      "file_id": "70d2182e8a4d7ce0da89a05e09291542"
     }
   ]
 }
