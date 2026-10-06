@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "1034927181",
-  "updated_at": "2026-08-02T06:37:03+00:00",
+  "updated_at": "2026-10-06T01:47:29+00:00",
   "skins": [
     {
       "name": "不良天使… 融底",
@@ -32,6 +32,13 @@
       "file": "雾感少女匣彩底.bds",
       "thumb": "雾感少女匣彩底.bds_py_26_light_thumb.png",
       "full": "雾感少女匣彩底.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "不良天使… 彩底",
+      "file": "不良天使彩底.bds",
+      "thumb": "不良天使彩底.bds_py_26_light_thumb.png",
+      "full": "不良天使彩底.bds_py_26_light_thumb.png",
+      "file_id": "832b3c54e8a974148c529d38b706a9e9"
     }
   ]
 }
