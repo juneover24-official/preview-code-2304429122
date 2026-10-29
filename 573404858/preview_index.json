@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-10-29T11:39:32+00:00",
+  "updated_at": "2026-10-29T11:40:32+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -77,6 +77,13 @@
       "thumb": "Aqua_Loading脆.bdi_py_26_light_thumb.png",
       "full": "Aqua_Loading脆.bdi_py_26_light_thumb.png",
       "file_id": "6c8d5e042b60cf786f44799422a80e63"
+    },
+    {
+      "name": "杳の清莲",
+      "file": "杳の清莲_融合.bdi",
+      "thumb": "杳の清莲_融合.bdi_py_26_light_thumb.png",
+      "full": "杳の清莲_融合.bdi_py_26_light_thumb.png",
+      "file_id": "c412a2175d5b804cd7c41e9688396be8"
     }
   ]
 }
