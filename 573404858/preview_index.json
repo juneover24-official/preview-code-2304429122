@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-10-29T10:24:12+00:00",
+  "updated_at": "2026-10-29T11:37:57+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -63,6 +63,13 @@
       "file": "杳のVale机械音_融合.bds",
       "thumb": "杳のVale机械音_融合.bds_py_26_light_thumb.png",
       "full": "杳のVale机械音_融合.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳のVale 机械音",
+      "file": "杳のVale机械音.bdi",
+      "thumb": "杳のVale机械音.bdi_py_26_light_thumb.png",
+      "full": "杳のVale机械音.bdi_py_26_light_thumb.png",
+      "file_id": "34fe491275133d27c4b7afa36ee1bad4"
     }
   ]
 }
