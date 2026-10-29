@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-10-29T11:58:26+00:00",
+  "updated_at": "2026-10-29T11:58:32+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -9,12 +9,6 @@
       "thumb": "杳の清莲.bdi_py_26_light_thumb.png",
       "full": "杳の清莲.bdi_py_26_light_thumb.png",
       "file_id": "a6c27f1f932590df4bd6c3be7c959cfe"
-    },
-    {
-      "name": "杳のVale 脆音",
-      "file": "杳のVale脆音_融合.bdi",
-      "thumb": "杳のVale脆音_融合.bdi_py_26_light_thumb.png",
-      "full": "杳のVale脆音_融合.bdi_py_26_light_thumb.png"
     },
     {
       "name": "杳のVale 闷音",
