@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-10-31T08:54:41+00:00",
+  "updated_at": "2026-10-31T08:54:46+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -62,6 +62,13 @@
       "thumb": "holic闷.bds_py_26_light_thumb.png",
       "full": "holic闷.bds_py_26_light_thumb.png",
       "file_id": "fc63b4cf3106b2cec631d3a9528d8aba"
+    },
+    {
+      "name": "杳の××× holic 脆",
+      "file": "holic脆.bds",
+      "thumb": "holic脆.bds_py_26_light_thumb.png",
+      "full": "holic脆.bds_py_26_light_thumb.png",
+      "file_id": "08e79fadc57c1087dd02717b27dc15e6"
     }
   ]
 }
