@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-04T10:21:19+00:00",
+  "updated_at": "2026-11-04T10:21:25+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -89,6 +89,12 @@
       "file": "モフモフ.bds",
       "thumb": "モフモフ.bds_py_26_light_thumb.png",
       "full": "モフモフ.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳のモフ☆モフ",
+      "file": "モフモフ.bdi",
+      "thumb": "モフモフ.bdi_py_26_light_thumb.png",
+      "full": "モフモフ.bdi_py_26_light_thumb.png"
     }
   ]
 }
