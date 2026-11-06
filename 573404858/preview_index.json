@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-06T09:01:17+00:00",
+  "updated_at": "2026-11-06T09:01:23+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -101,6 +101,12 @@
       "file": "荆棘丛中沉睡的信笺.bds",
       "thumb": "荆棘丛中沉睡的信笺.bds_py_26_light_thumb.png",
       "full": "荆棘丛中沉睡的信笺.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の荆棘丛中沉睡的信笺",
+      "file": "荆棘丛中沉睡的信笺.bdi",
+      "thumb": "荆棘丛中沉睡的信笺.bdi_py_26_light_thumb.png",
+      "full": "荆棘丛中沉睡的信笺.bdi_py_26_light_thumb.png"
     }
   ]
 }
