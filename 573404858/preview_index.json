@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-08T03:00:15+00:00",
+  "updated_at": "2026-11-08T03:00:22+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -110,15 +110,15 @@
     },
     {
       "name": "杳の幸运星 正常音",
-      "file": "幸运星正常音.bds",
-      "thumb": "幸运星正常音.bds_py_26_light_thumb.png",
-      "full": "幸运星正常音.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "杳の幸运星 正常音",
       "file": "幸运星正常音.bdi",
       "thumb": "幸运星正常音.bdi_py_26_light_thumb.png",
       "full": "幸运星正常音.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の幸运星 正常音",
+      "file": "幸运星正常音.bds",
+      "thumb": "幸运星正常音.bds_py_26_light_thumb.png",
+      "full": "幸运星正常音.bds_py_26_light_thumb.png"
     }
   ]
 }
