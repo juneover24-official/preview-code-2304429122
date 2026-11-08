@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-08T03:22:17+00:00",
+  "updated_at": "2026-11-08T15:23:55+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -127,6 +127,12 @@
       "thumb": "幸运星机械音.bdi_py_26_light_thumb.png",
       "full": "幸运星机械音.bdi_py_26_light_thumb.png",
       "file_id": "c789055f94e17ee4d0584fa81ac922ad"
+    },
+    {
+      "name": "杳のCLANNAD",
+      "file": "CLANNAD.bdi",
+      "thumb": "CLANNAD.bdi_py_26_light_thumb.png",
+      "full": "CLANNAD.bdi_py_26_light_thumb.png"
     }
   ]
 }
