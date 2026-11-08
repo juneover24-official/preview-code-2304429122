@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-08T15:23:55+00:00",
+  "updated_at": "2026-11-08T15:24:03+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -133,6 +133,12 @@
       "file": "CLANNAD.bdi",
       "thumb": "CLANNAD.bdi_py_26_light_thumb.png",
       "full": "CLANNAD.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳のCLANNAD",
+      "file": "CLANNAD.bds",
+      "thumb": "CLANNAD.bds_py_26_light_thumb.png",
+      "full": "CLANNAD.bds_py_26_light_thumb.png"
     }
   ]
 }
