@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-15T15:09:46+00:00",
+  "updated_at": "2026-11-15T15:10:04+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -146,6 +146,12 @@
       "file": "我会找到逆转时间的公式.bdi",
       "thumb": "我会找到逆转时间的公式.bdi_py_26_light_thumb.png",
       "full": "我会找到逆转时间的公式.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の我会找到逆转时间的公式",
+      "file": "我会找到逆转时间的公式.bds",
+      "thumb": "我会找到逆转时间的公式.bds_py_26_light_thumb.png",
+      "full": "我会找到逆转时间的公式.bds_py_26_light_thumb.png"
     }
   ]
 }
