@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-18T14:43:11+00:00",
+  "updated_at": "2026-11-18T14:43:18+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -158,6 +158,12 @@
       "file": "涩谷昭和事件.bds",
       "thumb": "涩谷昭和事件.bds_py_26_light_thumb.png",
       "full": "涩谷昭和事件.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の涩谷昭和事件",
+      "file": "涩谷昭和事件.bdi",
+      "thumb": "涩谷昭和事件.bdi_py_26_light_thumb.png",
+      "full": "涩谷昭和事件.bdi_py_26_light_thumb.png"
     }
   ]
 }
