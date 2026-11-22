@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-22T10:47:44+00:00",
+  "updated_at": "2026-11-22T10:47:51+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -173,15 +173,15 @@
     },
     {
       "name": "杳の看见夏多说99",
-      "file": "看见夏多说99_融合.bds",
-      "thumb": "看见夏多说99_融合.bds_py_26_light_thumb.png",
-      "full": "看见夏多说99_融合.bds_py_26_light_thumb.png"
-    },
-    {
-      "name": "杳の看见夏多说99",
       "file": "看见夏多说99.bdi",
       "thumb": "看见夏多说99.bdi_py_26_light_thumb.png",
       "full": "看见夏多说99.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の看见夏多说99",
+      "file": "看见夏多说99_融合.bds",
+      "thumb": "看见夏多说99_融合.bds_py_26_light_thumb.png",
+      "full": "看见夏多说99_融合.bds_py_26_light_thumb.png"
     }
   ]
 }
