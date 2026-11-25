@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "573404858",
-  "updated_at": "2026-11-25T08:04:27+00:00",
+  "updated_at": "2026-11-25T08:05:00+00:00",
   "skins": [
     {
       "name": "杳の清莲",
@@ -196,6 +196,12 @@
       "file": "魔鬼恋人.bds",
       "thumb": "魔鬼恋人.bds_py_26_light_thumb.png",
       "full": "魔鬼恋人.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "杳の魔鬼恋人",
+      "file": "魔鬼恋人.bdi",
+      "thumb": "魔鬼恋人.bdi_py_26_light_thumb.png",
+      "full": "魔鬼恋人.bdi_py_26_light_thumb.png"
     }
   ]
 }
