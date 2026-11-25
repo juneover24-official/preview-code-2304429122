@@ -1,7 +1,7 @@
 {
   "qq_number": "2304429122",
   "group_number": "1034927181",
-  "updated_at": "2026-11-24T07:02:36+00:00",
+  "updated_at": "2026-11-25T00:43:04+00:00",
   "skins": [
     {
       "name": "不良天使… 融底",
@@ -53,6 +53,13 @@
       "thumb": "恋爱铃.bds_py_26_light_thumb.png",
       "full": "恋爱铃.bds_py_26_light_thumb.png",
       "file_id": "7b42e269aa1d5dfaf6aefea6b32b0626"
+    },
+    {
+      "name": "恋爱铃",
+      "file": "恋爱铃_融合.bds",
+      "thumb": "恋爱铃_融合.bds_py_26_light_thumb.png",
+      "full": "恋爱铃_融合.bds_py_26_light_thumb.png",
+      "file_id": "5975a4c1609c73a7094b67ef27699f0a"
     }
   ]
 }
